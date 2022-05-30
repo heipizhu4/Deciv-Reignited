@@ -1,8 +1,8 @@
-# DeCiv-Reignited - Deciv Variant continued by Bucketeer
+# DeCiv-Reignited - Deciv (temporary) Variant by Bucketeer
 
 ***Original Deciv*** created by ***[9kgsofrice](https://github.com/9kgsofrice/DeCiv/)*** <br>
 2nd Generation development ***Deciv Redux*** by ***[SpacedOutChicken (Lodo the Bear)](https://github.com/SpacedOutChicken/DeCiv-Redux/)*** <br>
-Current variant continued by *GeneralWadaling (The Bucketeer)*
+Current variant by *GeneralWadaling (The Bucketeer)*
 
 DeCiv 5.0.3-RI<br>
 Reignited v1<br>
